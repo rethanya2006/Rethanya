@@ -1,0 +1,30 @@
+h2 {
+    color: chartreuse;
+    font-size: large;
+}
+
+p {
+    font-style: italic;
+    color: cornflowerblue;
+}
+
+table,
+th,
+tr {
+    border-color: black;
+    border-style: double;
+    background-color: darksalmon;
+}
+
+tr {
+    border-color: black;
+    text-align: center;
+}
+
+td {
+    border-color: black;
+}
+
+iframe {
+    height: 200px;
+}
