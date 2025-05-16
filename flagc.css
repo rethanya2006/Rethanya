@@ -1,0 +1,43 @@
+.flag {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.s {
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+
+
+}
+
+.g {
+
+    width: 300px;
+    height: 50px;
+    background-color: green;
+
+}
+
+.w {
+    display: flex;
+    width: 300px;
+    height: 50px;
+    background-color: white;
+    justify-content: center;
+
+}
+
+.o {
+    width: 300px;
+    height: 50px;
+    background-color: orange;
+}
+
+img {
+    justify-content: center;
+    width: 70px;
+    height: 50px;
+}
